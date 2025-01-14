@@ -12,9 +12,9 @@ Sou um **Desenvolvedor Full Stack** com experiência em **JavaScript**, **Node.j
 
 ## 📈 Minhas Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-teixeira&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-v-teixeira&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&theme=radical&exclude_repo=repo1,repo2)](https://github.com/eduardo-teixeira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-v-teixeira&layout=compact&theme=radical&exclude_repo=repo1,repo2)](https://github.com/eduardo-v-teixeira/github-readme-stats)
 
 ## 📫 Como me encontrar
 
