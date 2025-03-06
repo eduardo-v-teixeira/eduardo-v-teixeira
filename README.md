@@ -30,4 +30,4 @@ Scrum, Kanban
 
 - **E-mail:** [eteixeira566@gmail.com](mailto:eteixeira566@gmail.com)
 - **GitHub:** [Eduardo Vinicius Teixeira](https://github.com/eduardo-v-teixeira)
-- **LinkedIn:** [Eduardo Teixeira](https://www.linkedin.com/in/eduardo-teixeira/)
+- **LinkedIn:** [Eduardo Teixeira](https://www.linkedin.com/in/eduardo-teixeira-739944311)
