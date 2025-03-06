@@ -1,22 +1,33 @@
-# Eduardo Teixeira 👋
+<div align="center">
+  <a href="https://github.com/eduardo-v-teixeira">
+    <img height="190em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-v-teixeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="175em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-v-teixeira&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-Sou um **Desenvolvedor Full Stack** com experiência em **JavaScript**, **Node.js**, **React**, **SQL Server**, e **MongoDB**. Apaixonado por criar soluções inovadoras e de fácil manutenção.
+<h1 align="center">Eduardo Vinicius Teixeira</h1>
 
-## 🛠️ Tecnologias e Ferramentas
+Sou um **Desenvolvedor de Software** com experiência em **C#** e **Python**, focado na criação de soluções eficientes e escaláveis. Atuo com desenvolvimento backend utilizando ASP.NET Core para construção de APIs RESTful e manipulação de bancos de dados relacionais.
 
-- **Linguagens de Programação:** JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas:** React, Node.js, Express, Angular
-- **Banco de Dados:** SQL Server, MongoDB
-- **Versionamento:** Git, GitHub
-- **Ferramentas de Deploy:** Docker, Heroku, AWS
+# Tecnologias e Habilidades  
 
-## 📈 Minhas Estatísticas
+**Front-end:**  
+HTML, CSS, JavaScript (Em andamento)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-v-teixeira&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs&theme=radical)
+**Back-end:**  
+C#, Python, ASP.NET Core (Web APIs, MVC), Entity Framework Core, Autenticação JWT, Swagger (OpenAPI), Versionamento de APIs, Padrão Repository, Injeção de Dependência, Arquitetura Monolítica  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-v-teixeira&layout=compact&theme=radical&exclude_repo=repo1,repo2)](https://github.com/eduardo-v-teixeira/github-readme-stats)
+**Banco de Dados:**  
+SQL Server, PostgreSQL, MySQL  
+
+**Princípios e Arquitetura:**  
+POO, SOLID, DRY, YAGNI, KISS, Arquitetura Limpa  
+
+**Metodologias Ágeis:**  
+Scrum, Kanban  
 
 ## 📫 Como me encontrar
 
 - **E-mail:** [eteixeira566@gmail.com](mailto:eteixeira566@gmail.com)
-- **LinkedIn:** [Eduardo Teixeira](www.linkedin.com/in/eduardo-teixeira-739944311)
+- **GitHub:** [Eduardo Vinicius Teixeira](https://github.com/eduardo-v-teixeira)
+- **LinkedIn:** [Eduardo Teixeira](https://www.linkedin.com/in/eduardo-teixeira/)
