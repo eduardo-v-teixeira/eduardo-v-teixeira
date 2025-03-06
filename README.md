@@ -19,4 +19,4 @@ Sou um **Desenvolvedor Full Stack** com experiência em **JavaScript**, **Node.j
 ## 📫 Como me encontrar
 
 - **E-mail:** [eteixeira566@gmail.com](mailto:eteixeira566@gmail.com)
-- **LinkedIn:** [Eduardo Teixeira](https://www.linkedin.com/in/eduardo-teixeira)
+- **LinkedIn:** [Eduardo Teixeira](www.linkedin.com/in/eduardo-teixeira-739944311)
