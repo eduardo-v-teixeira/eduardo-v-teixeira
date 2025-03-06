@@ -7,15 +7,15 @@
 
 <h1 align="center">Eduardo Vinicius Teixeira</h1>
 
-Sou um **Desenvolvedor de Software** com experiência em **C#** e **Python**, focado na criação de soluções eficientes e escaláveis. Atuo com desenvolvimento backend utilizando ASP.NET Core para construção de APIs RESTful e manipulação de bancos de dados relacionais.
+Sou um **Desenvolvedor de Software** com experiência em **C#** e , focado na criação de soluções eficientes e escaláveis. Atuo com desenvolvimento backend utilizando ASP.NET Core para construção de APIs RESTful e manipulação de bancos de dados relacionais.
 
 # Tecnologias e Habilidades  
 
 **Front-end:**  
-HTML, CSS, JavaScript (Em andamento)  
+HTML, CSS, JavaScript 
 
 **Back-end:**  
-C#, Python, ASP.NET Core (Web APIs, MVC), Entity Framework Core, Autenticação JWT, Swagger (OpenAPI), Versionamento de APIs, Padrão Repository, Injeção de Dependência, Arquitetura Monolítica  
+C#, ASP.NET Core (Web APIs, MVC), Entity Framework Core, Autenticação JWT, Swagger (OpenAPI), Versionamento de APIs, Padrão Repository, Injeção de Dependência, Arquitetura Monolítica  
 
 **Banco de Dados:**  
 SQL Server, PostgreSQL, MySQL  
